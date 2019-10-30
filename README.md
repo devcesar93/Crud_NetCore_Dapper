@@ -6,6 +6,9 @@ Também foi utilizada a extensão Dapper.Contrib para facilitar algumas tarefas 
 
 Script das tabelas utilizadas:
 
+
+
+
 CREATE TABLE [dbo].[Veiculo_Marca](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Marca] [nvarchar](100) NOT NULL,
