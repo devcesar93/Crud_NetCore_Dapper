@@ -7,7 +7,7 @@ Também foi utilizada a extensão Dapper.Contrib para facilitar algumas tarefas 
 Script das tabelas utilizadas:
 
 
-
+TABELA VEICULO_MARCA:
 
 CREATE TABLE [dbo].[Veiculo_Marca](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
@@ -21,6 +21,7 @@ CREATE TABLE [dbo].[Veiculo_Marca](
 
 
 
+TABELA VEICULO_MODELO:
 
 CREATE TABLE [dbo].[Veiculo_Modelo](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
