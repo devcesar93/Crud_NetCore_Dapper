@@ -1,0 +1,11 @@
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\bin\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.deps.json
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\bin\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.runtimeconfig.json
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\bin\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.runtimeconfig.dev.json
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\bin\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.dll
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.csprojAssemblyReference.cache
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.AssemblyInfoInputs.cache
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.AssemblyInfo.cs
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\bin\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.pdb
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.dll
+C:\Users\DEV01\source\repos\Exemplo_App_NetCore_Dapper\Exemplo_App_NetCore_Dapper\obj\Debug\netcoreapp2.0\Exemplo_App_NetCore_Dapper.pdb
